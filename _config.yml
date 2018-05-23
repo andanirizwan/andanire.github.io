@@ -24,7 +24,7 @@ github_username:  andanirizwan
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-prettydocs
 plugins:
   - jekyll-feed
 
